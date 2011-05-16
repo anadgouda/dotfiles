@@ -1,11 +1,13 @@
-set guifont=Droid\ Sans\ Mono\ 10
-set formatoptions=tcrqn
+set guifont=Dina\ 12
 
 set guioptions-=m
 set guioptions-=T
-"set guicursor=n-v-c-i:ver10-Cursor/lCursor
+set guicursor=n-v-c-i:hor5-Cursor/lCursor
 set guicursor=a:blinkon0
 
-imap <S-Space> <Esc>
+"winpos 0 0 
+"set lines=35
+"set columns=120
 
+set background=dark
 colo typing
